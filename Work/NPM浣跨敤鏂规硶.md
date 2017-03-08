@@ -1,4 +1,4 @@
-<h1 style="font-size: 40px;text-align:center;color: #007cdc;">
+﻿<h1 style="font-size: 40px;text-align:center;color: #007cdc;">
     NPM的使用方法
 </h1>
 
@@ -95,3 +95,5 @@ npm help
 npm cache clear  #可以清空NPM本地的缓存
 npm unpublish @[版本号]  #撤销发布的某个版本的模块
 ```
+
+### 安装npm装包进程可视化 ``` npm config set loglevel=http```
